@@ -23,6 +23,9 @@ class ViewController: UIViewController {
     //Comment change to test git 
     //Just keep testing
     var s = 10
+    var ddsf = "dsfsdffds"
+    var dsfsdfsd = "dsfdfsf"
+    
     
 }
 
