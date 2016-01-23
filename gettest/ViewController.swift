@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
     //Comment change to test git 
     //Just keep testing
+    var s = 10
     
 }
 
