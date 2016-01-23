@@ -27,6 +27,8 @@ class ViewController: UIViewController {
     var dsfsdfsd = "dsfdfsf"
     //Keep testing
     ///nfdshfsdfdsf
+    var another = ["dsfdf", 1]
+    
     
 }
 
